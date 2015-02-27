@@ -1,0 +1,5 @@
+Firstname,Lastname,Email,Phone,Address1,Address2,Address3,City,State,Zip,"Country(Non Us)"
+Costas,Peppas,cpepp80@gmail.com,615-916-1483,"3105 Aidan Ln",,,"Mount Juliet",TN,37122,
+Bhumik,,trafficrandom@gmail.com,,,,,,,,
+Dharmendra,,trafficrandom@gmail.com,,,,,,,,,"Duplicate email record has been discarded."
+Testfirst,Testlast,costas@digitalcharis.com,,,,,,,,

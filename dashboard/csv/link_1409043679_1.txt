@@ -1,0 +1,398 @@
+------------- Ddropdown -----------------
+
+http://demos.telerik.com/kendo-ui/web/dropdownlist/cascadingdropdownlist.html
+
+ 
+-----------------------------------------  for mac issues  ---------------------------------
+
+setTimeout(test, 0); //delay for demonstration
+
+                    function test() {
+                        
+                        var mac = navigator.userAgent.match(/(Mac|iPhone|iPod|iPad)/i) ? true : false;
+                        if (mac) {
+                            $('body').addClass('mac');
+                        }
+                        else
+                            {
+                                $('body').addClass('wind');
+                            }
+                    }
+
+
+
+-------------   php   --------------------------
+
+very useful PHP code snippets for PHP developers
+
+----------------------------------------------------------------------------------------------------
+
+---------- j query for add and remove class in scroller --------------
+
+<script>
+
+$('#block-block-18 li a').on('click', function(){
+    $('#block-block-18 li a.current').removeClass('current');
+    $(this).addClass('current');
+});
+
+</script>
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+--------------- mac remote --------------------
+
+192.168.15.176
+password
+
+--------------------------------------------------------
+
+----------- tickit -----------------------
+
+un: - manish@zapserver.com
+pass: - #237049
+
+--------------------------------------------  
+
+--------------- good site for font kit -------------------------
+
+http://fontsforweb.com/font/show/?id=10418
+
+search like myriadpro fonts from fontsforweb.com
+
+museo sans
+
+if u have only ttf file then....
+
+@font-face {
+	font-family: 'Verdana';
+	src: url('fonts/Verdana.ttf');
+	src: local('myriadpro'), url('fonts/Verdana.ttf') format('ttf'), url('fonts/Verdana.ttf') format('truetype');
+}
+
+------------------------------------- linear gradient for IE ---------------------------------------------------------
+
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#EDE7D9', endColorstr='#F7F6F1',GradientType=1 )\9;     ( GradientType is 0 OR 1 )
+
+-------------- photoshop ------------
+
+192.168.15.153
+
+design
+design123#
+
+192.168.15.156
+
+dileep
+dileep123#
+
+
+
+ \\192.168.15.11\www\process\sites\all\themes\process
+
+ 
+http://202.131.115.110/fueltrac/
+
+
+\\192.168.15.11\www\vfa
+
+when ip change:
+
+\\192.168.15.11\www\vfa\application\config
+
+
+\\192.168.15.11\www\vfa\html\backend
+\\192.168.15.11\www\vfa\html\backend\css  
+
+our use & currently:- 15.5 ( then afeter copy vfa from 15.5 and paste to 15.11 and change ip from confige )
+
+\\192.168.15.11\www\vfa\public\backend\css
+\\192.168.15.11\www\vfa\application\views\admin\users
+
+
+http://202.131.115.110/vfa/     and   currently:- http://202.131.115.106/vfa/admin/  &  http://202.131.115.110/vfa/admin/ 
+academy@zapserver.com
+pass:- admin
+
+http://216.55.131.46/vfa
+demo@zapserver.com
+admin 
+
+
+\\192.168.15.11\www\breakaway\templates\wt_maxwell\css
+
+
+remote desktop connection
+
+192.168.15.172
+
+design
+design123#
+
+http://202.131.115.110/breakaway/index.php?option=com_content&view=article&id=16&Itemid=138
+
+magento user:-
+
+zaptech1234@gmail.com
+manish123#
+
+
+new :- 15.11
+
+
+http://feeds.joomla.org/JoomlaEvents
+
+
+manage your product
+
+--------------------------------------------------- elsta ---------------------------------------------
+
+http://www.elsta-sprachreisen.de/
+
+\\192.168.15.5\www\elsta\templates\yoo_nano2\css    menus.css
+
+inline:----
+
+\\192.168.15.5\www\elsta\modules\mod_maximenuck\themes\css3megamenu\css
+
+
+---- backend -------
+
+ http://202.131.115.106/elsta/administrator/index.php?option=com_rsform&view=forms&layout=edit&formId=4
+
+admin
+admin
+
+
+---------------------------------------- ftp detail ---------------------------------------------
+
+
+ http://216.55.131.46/vfa
+ Ftp: Username : vfa
+ Password : y6a48365jP4N08D
+ Host: 216.55.131.46
+
+
+------------------------------------------- lsu -----------------------------------
+
+http://216.55.131.46/lsu
+host - 216.55.131.46
+user: lsu
+pass: Ss5OJz165vlxA59
+
+remote site :- /sites/all/themes/lsu/css
+
+admin: admin/admin123
+
+
+----------------------------------------  Heartpath ----------------------------------
+
+http://heartpath.sortistesting.com/
+
+Host : ftp.sortistesting.com
+username: heartpath@sortistesting.com
+Pass - heartpath123
+
+Auth Username - client
+Pass- heartpath123
+
+admin: admin/heartpath123
+
+remote site :- /sites/all/themes/heartpath/css
+
+
+------------------------------------------ elsta ------------------------------------
+
+bubble-around.com
+user: 235399-11-zaptech
+pwd: zaptech6!3
+
+------------------------------------------- process --------------------------------
+
+HOST - 216.55.131.46
+User - process
+Pass - T84qWoiAgZYYQ6n
+
+/sites/all/themes/process/css
+
+
+------------------- some changes --------------
+
+\\192.168.15.121\templates\plain_white      templete.css
+
+
+http://192.168.15.121/360survey/admin/admin.php?action=templates&templatename=plain_white&editfile=startpage.pstpl&screenname=welcome
+
+--------------------------------------------- usit -------------------------------------------
+
+
+http://216.55.131.46/usit/
+
+live:- http://174.78.147.101/
+
+216.55.131.46
+usit
+92y10p74h1b5N3P
+
+/sites/all/themes/usit/css
+
+
+----------------------------------------------------------  energyfunders ------------------------------------------------------------
+note:- three div same code.....
+
+prakash1
+prakash123
+
+D:\wamp\www\EF\application\views                     investor_profile
+
+C:\Users\manish\Desktop\pr\designs\energyfunders                 operatorstep1
+
+D:\wamp\www\EF\css                                      style.css
+
+http://localhost/EF/user/investor_profile
+file:///C:/Users/manish/Desktop/pr/designs/energyfunders/operatorstep2.html
+
+
+--------------------------------------------------------  all about bar ----------------------------------------------------------------- 
+
+Host : allaboutbar.com
+username : allabout
+password : zaptech123#
+
+(15:36) prakash: http://clients.bopgun.com/allaboutbar/
+(15:36) prakash: https://www.allaboutbar.com/cocktail/info
+
+
+---------------------------------------------------------  Wecollage --------------------------------------------------
+
+ FTP for Wecollage
+
+Host - 50.62.42.129
+USer - whiteboard
+Pass - Shareument42# 
+
+/sites/all/themes/zaptech
+
+
+-------------------------------------------------------------- novogradac ----------------------------------------------------------
+
+ssh root@162.209.89.228
+User: root
+Password: k3STeWiaLycS
+
+http://162.209.89.228/catalog-search
+
+/var/www/sites/all/themes/nationalhousing
+
+-------------------------------------------------------- themeforest ----------------------------------------------------------
+
+216.55.131.46
+
+opnk 
+Kjfg;gfd37854sfgk
+
+/wp-content/themes/kutcher/css
+
+------------------------- Parashift -------------------------------------
+
+/sites/all/themes/parashift/css
+
+h 650-2000
+w 250-700
+
+http://parashift.com.au/blog/2013/12/eboard-case-study-city-of-norwood-payneham-st-peters/
+
+--------------------------------------------------------------- vfa -----------------------------------------------------
+
+http://216.55.131.46/vfa/admin/users/playerslist/all
+
+ 
+(16:55) sainath: username:admin@zapserver.com
+(16:55) sainath: password:admin
+(16:55) sainath: public/backend/css
+
+demo@zapserver.com
+admin 
+
+
+--------------------------------------------------------------------- thatsvoiceover -----------------------------------------------------
+
+over/cpanel
+UN: thatsvo
+PW: 1nspirepe0ple!
+
+/public_html/wp-content/themes/thatsvoiceover
+
+
+--------------------------------------------------------------------- websitetestlink.com ----------------------------------------------
+
+ftp1.ftptoyoursite.com
+
+User:          web113
+Pass:          wLs83!eM01
+
+/www.marienlysterhverv.dk/web/content/wp-content/themes/twentythirteen
+
+
+----------------------------------------------------- ForestAmerica  --------------------------------------------------------
+
+
+Host - 216.55.131.46
+User - forest-america
+Pass  - pjg2vPG8aRRq7Cn
+
+http://216.55.131.46/forest-america/
+
+
+--------------------------------------- anthony barber -------------------------------------------
+
+host:anthonybarber.cgr-dev.com
+user:cgrdeveloper
+pwd:tc2o!mjG#cWd0L
+
+http://anthonybarber.cgr-dev.com/
+
+--------------------------------------------------  tamono -------------------------------------------------
+
+Host: 216.55.131.46
+User Name: tamono
+Password: sDf#5$52Tsdf2
+
+
+/modules/attributewizardpro/css
+
+
+-------------------------------------------------- bubble-around  --------------------------------------------------
+
+FTP: ftp.bubble-around.com
+user: 235399-zapt
+pwd: zaptech!
+
+/media/widgetkit/widgets/slideshow/styles/new_style
+
+
+
+----------------------------------------------------- love shack -------------------------------------------
+
+http://216.55.131.46/loveshak/
+
+host:- 216.55.131.46
+username : loveshak
+password : Dergmj@#894lbw@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

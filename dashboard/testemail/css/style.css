@@ -1,0 +1,54 @@
+
+
+@font-face {
+    font-family: 'Freestyle';
+    src: url('Freestyle_Script_Plain.eot'); 
+    src: /* url('../new-fonts/Lato-Reg.eot?#iefix') format('embedded-opentype'),
+         url('../new-fonts/Lato-Reg.woff') format('woff'), */
+         url('Freestyle_Script_Plain.ttf') format('truetype'); 
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+
+body{
+	/*background-color: #B7DAF8;*/
+        /*font-family: 'Freestyle';*/
+	width: 960px;
+	margin:0 auto;
+}
+.header_style
+{
+    font-family: 'Freestyle';
+    color: #FE0000;
+    font-size: 30px;
+    font-weight: normal;
+}
+.header_style.event
+{
+    margin-bottom: 25px;
+    text-align: center;
+}
+table{
+	width:100%;
+}
+div.widget {
+    float: left;
+    margin: 0;
+    width: 50%;
+}
+.style_newslatter
+{
+    padding-top: 30px;
+    text-align: center;
+}
+.style_newslatter a
+{
+   background: #ed1a3b;
+    color: #fff;
+    font-size: 16px;
+    letter-spacing: 2px;
+    padding: 5px 15px;
+    text-decoration: none;
+}

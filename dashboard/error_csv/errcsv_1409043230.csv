@@ -1,0 +1,413 @@
+sCustomerFirstname,sCustomerLastname,sCustomerEmail,sCustomerPhone,sCustomerAddress1,sCustomerAddress2,sCustomerAddress3,sCustomerCity,sCustomerState,sCustomerZip,"sCustomerCountry(Non Us)"
+http://demos.telerik.com/kendo-ui/web/dropdownlist/cascadingdropdownlist.html," can not be empty 
+"
+"-----------------------------------------  for mac issues  ---------------------------------"," can not be empty 
+"
+setTimeout(test," 0); //delay for demonstration"," can not be empty 
+"
+"                    function test() {"," can not be empty 
+"
+"                        var mac = navigator.userAgent.match(/(Mac|iPhone|iPod|iPad)/i) ? true : false;"," can not be empty 
+"
+"                        if (mac) {"," can not be empty 
+"
+"                            $('body').addClass('mac');"," can not be empty 
+"
+"                        }"," can not be empty 
+"
+"                        else"," can not be empty 
+"
+"                            {"," can not be empty 
+"
+"                                $('body').addClass('wind');"," can not be empty 
+"
+"                            }"," can not be empty 
+"
+"                    }"," can not be empty 
+"
+"-------------   php   --------------------------"," can not be empty 
+"
+"very useful PHP code snippets for PHP developers"," can not be empty 
+"
+----------------------------------------------------------------------------------------------------," can not be empty 
+"
+"---------- j query for add and remove class in scroller --------------"," can not be empty 
+"
+<script>," can not be empty 
+"
+"$('#block-block-18 li a').on('click'"," function(){"," can not be empty 
+"
+"    $('#block-block-18 li a.current').removeClass('current');"," can not be empty 
+"
+"    $(this).addClass('current');"," can not be empty 
+"
+});," can not be empty 
+"
+</script>," can not be empty 
+"
+-----------------------------------------------------------------------------------------------------------------------------------------," can not be empty 
+"
+"--------------- mac remote --------------------"," can not be empty 
+"
+192.168.15.176," can not be empty 
+"
+password," can not be empty 
+"
+--------------------------------------------------------," can not be empty 
+"
+"----------- tickit -----------------------"," can not be empty 
+"
+"un: - manish@zapserver.com"," can not be empty 
+"
+"pass: - #237049"," can not be empty 
+"
+"--------------------------------------------  "," can not be empty 
+"
+"--------------- good site for font kit -------------------------"," can not be empty 
+"
+http://fontsforweb.com/font/show/?id=10418," can not be empty 
+"
+"search like myriadpro fonts from fontsforweb.com"," can not be empty 
+"
+"museo sans"," can not be empty 
+"
+"if u have only ttf file then...."," can not be empty 
+"
+"@font-face {"," can not be empty 
+"
+"	font-family: 'Verdana';"," can not be empty 
+"
+"	src: url('fonts/Verdana.ttf');"," can not be empty 
+"
+"	src: local('myriadpro')"," url('fonts/Verdana.ttf') format('ttf')"," url('fonts/Verdana.ttf') format('truetype');","Invalid Email Address"
+}," can not be empty 
+"
+"------------------------------------- linear gradient for IE ---------------------------------------------------------"," can not be empty 
+"
+"filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#EDE7D9'"," endColorstr='#F7F6F1'","GradientType=1 )\9;     ( GradientType is 0 OR 1 )","Invalid Email Address"
+"-------------- photoshop ------------"," can not be empty 
+"
+192.168.15.153," can not be empty 
+"
+design," can not be empty 
+"
+design123#," can not be empty 
+"
+192.168.15.156," can not be empty 
+"
+dileep," can not be empty 
+"
+dileep123#," can not be empty 
+"
+" \\192.168.15.11\www\process\sites\all\themes\process"," can not be empty 
+"
+http://202.131.115.110/fueltrac/," can not be empty 
+"
+"\\192.168.15.11\www\vfa"," can not be empty 
+"
+"when ip change:"," can not be empty 
+"
+"\\192.168.15.11\www\vfa\application\config"," can not be empty 
+"
+"\\192.168.15.11\www\vfa\html\backend"," can not be empty 
+"
+"\\192.168.15.11\www\vfa\html\backend\css  "," can not be empty 
+"
+"our use & currently:- 15.5 ( then afeter copy vfa from 15.5 and paste to 15.11 and change ip from confige )"," can not be empty 
+"
+"\\192.168.15.11\www\vfa\public\backend\css"," can not be empty 
+"
+"\\192.168.15.11\www\vfa\application\views\admin\users"," can not be empty 
+"
+"http://202.131.115.110/vfa/     and   currently:- http://202.131.115.106/vfa/admin/  &  http://202.131.115.110/vfa/admin/ "," can not be empty 
+"
+academy@zapserver.com," can not be empty 
+"
+"pass:- admin"," can not be empty 
+"
+http://216.55.131.46/vfa," can not be empty 
+"
+demo@zapserver.com," can not be empty 
+"
+"admin "," can not be empty 
+"
+"\\192.168.15.11\www\breakaway\templates\wt_maxwell\css"," can not be empty 
+"
+"remote desktop connection"," can not be empty 
+"
+192.168.15.172," can not be empty 
+"
+design," can not be empty 
+"
+design123#," can not be empty 
+"
+http://202.131.115.110/breakaway/index.php?option=com_content&view=article&id=16&Itemid=138," can not be empty 
+"
+"magento user:-"," can not be empty 
+"
+zaptech1234@gmail.com," can not be empty 
+"
+manish123#," can not be empty 
+"
+"new :- 15.11"," can not be empty 
+"
+http://feeds.joomla.org/JoomlaEvents," can not be empty 
+"
+"manage your product"," can not be empty 
+"
+"--------------------------------------------------- elsta ---------------------------------------------"," can not be empty 
+"
+http://www.elsta-sprachreisen.de/," can not be empty 
+"
+"\\192.168.15.5\www\elsta\templates\yoo_nano2\css    menus.css"," can not be empty 
+"
+inline:----," can not be empty 
+"
+"\\192.168.15.5\www\elsta\modules\mod_maximenuck\themes\css3megamenu\css"," can not be empty 
+"
+"---- backend -------"," can not be empty 
+"
+" http://202.131.115.106/elsta/administrator/index.php?option=com_rsform&view=forms&layout=edit&formId=4"," can not be empty 
+"
+admin," can not be empty 
+"
+admin," can not be empty 
+"
+"---------------------------------------- ftp detail ---------------------------------------------"," can not be empty 
+"
+" http://216.55.131.46/vfa"," can not be empty 
+"
+" Ftp: Username : vfa"," can not be empty 
+"
+" Password : y6a48365jP4N08D"," can not be empty 
+"
+" Host: 216.55.131.46"," can not be empty 
+"
+"------------------------------------------- lsu -----------------------------------"," can not be empty 
+"
+http://216.55.131.46/lsu," can not be empty 
+"
+"host - 216.55.131.46"," can not be empty 
+"
+"user: lsu"," can not be empty 
+"
+"pass: Ss5OJz165vlxA59"," can not be empty 
+"
+"remote site :- /sites/all/themes/lsu/css"," can not be empty 
+"
+"admin: admin/admin123"," can not be empty 
+"
+"----------------------------------------  Heartpath ----------------------------------"," can not be empty 
+"
+http://heartpath.sortistesting.com/," can not be empty 
+"
+"Host : ftp.sortistesting.com"," can not be empty 
+"
+"username: heartpath@sortistesting.com"," can not be empty 
+"
+"Pass - heartpath123"," can not be empty 
+"
+"Auth Username - client"," can not be empty 
+"
+"Pass- heartpath123"," can not be empty 
+"
+"admin: admin/heartpath123"," can not be empty 
+"
+"remote site :- /sites/all/themes/heartpath/css"," can not be empty 
+"
+"------------------------------------------ elsta ------------------------------------"," can not be empty 
+"
+bubble-around.com," can not be empty 
+"
+"user: 235399-11-zaptech"," can not be empty 
+"
+"pwd: zaptech6!3"," can not be empty 
+"
+"------------------------------------------- process --------------------------------"," can not be empty 
+"
+"HOST - 216.55.131.46"," can not be empty 
+"
+"User - process"," can not be empty 
+"
+"Pass - T84qWoiAgZYYQ6n"," can not be empty 
+"
+/sites/all/themes/process/css," can not be empty 
+"
+"------------------- some changes --------------"," can not be empty 
+"
+"\\192.168.15.121\templates\plain_white      templete.css"," can not be empty 
+"
+http://192.168.15.121/360survey/admin/admin.php?action=templates&templatename=plain_white&editfile=startpage.pstpl&screenname=welcome," can not be empty 
+"
+"--------------------------------------------- usit -------------------------------------------"," can not be empty 
+"
+http://216.55.131.46/usit/," can not be empty 
+"
+"live:- http://174.78.147.101/"," can not be empty 
+"
+216.55.131.46," can not be empty 
+"
+usit," can not be empty 
+"
+92y10p74h1b5N3P," can not be empty 
+"
+/sites/all/themes/usit/css," can not be empty 
+"
+"----------------------------------------------------------  energyfunders ------------------------------------------------------------"," can not be empty 
+"
+"note:- three div same code....."," can not be empty 
+"
+prakash1," can not be empty 
+"
+prakash123," can not be empty 
+"
+"D:\wamp\www\EF\application\views                     investor_profile"," can not be empty 
+"
+"C:\Users\manish\Desktop\pr\designs\energyfunders                 operatorstep1"," can not be empty 
+"
+"D:\wamp\www\EF\css                                      style.css"," can not be empty 
+"
+http://localhost/EF/user/investor_profile," can not be empty 
+"
+file:///C:/Users/manish/Desktop/pr/designs/energyfunders/operatorstep2.html," can not be empty 
+"
+"--------------------------------------------------------  all about bar ----------------------------------------------------------------- "," can not be empty 
+"
+"Host : allaboutbar.com"," can not be empty 
+"
+"username : allabout"," can not be empty 
+"
+"password : zaptech123#"," can not be empty 
+"
+"(15:36) prakash: http://clients.bopgun.com/allaboutbar/"," can not be empty 
+"
+"(15:36) prakash: https://www.allaboutbar.com/cocktail/info"," can not be empty 
+"
+"---------------------------------------------------------  Wecollage --------------------------------------------------"," can not be empty 
+"
+" FTP for Wecollage"," can not be empty 
+"
+"Host - 50.62.42.129"," can not be empty 
+"
+"USer - whiteboard"," can not be empty 
+"
+"Pass - Shareument42# "," can not be empty 
+"
+/sites/all/themes/zaptech," can not be empty 
+"
+"-------------------------------------------------------------- novogradac ----------------------------------------------------------"," can not be empty 
+"
+"ssh root@162.209.89.228"," can not be empty 
+"
+"User: root"," can not be empty 
+"
+"Password: k3STeWiaLycS"," can not be empty 
+"
+http://162.209.89.228/catalog-search," can not be empty 
+"
+/var/www/sites/all/themes/nationalhousing," can not be empty 
+"
+"-------------------------------------------------------- themeforest ----------------------------------------------------------"," can not be empty 
+"
+216.55.131.46," can not be empty 
+"
+"opnk "," can not be empty 
+"
+Kjfg;gfd37854sfgk," can not be empty 
+"
+/wp-content/themes/kutcher/css," can not be empty 
+"
+"------------------------- Parashift -------------------------------------"," can not be empty 
+"
+/sites/all/themes/parashift/css," can not be empty 
+"
+"h 650-2000"," can not be empty 
+"
+"w 250-700"," can not be empty 
+"
+http://parashift.com.au/blog/2013/12/eboard-case-study-city-of-norwood-payneham-st-peters/," can not be empty 
+"
+"--------------------------------------------------------------- vfa -----------------------------------------------------"," can not be empty 
+"
+http://216.55.131.46/vfa/admin/users/playerslist/all," can not be empty 
+"
+"(16:55) sainath: username:admin@zapserver.com"," can not be empty 
+"
+"(16:55) sainath: password:admin"," can not be empty 
+"
+"(16:55) sainath: public/backend/css"," can not be empty 
+"
+demo@zapserver.com," can not be empty 
+"
+"admin "," can not be empty 
+"
+"--------------------------------------------------------------------- thatsvoiceover -----------------------------------------------------"," can not be empty 
+"
+over/cpanel," can not be empty 
+"
+"UN: thatsvo"," can not be empty 
+"
+"PW: 1nspirepe0ple!"," can not be empty 
+"
+/public_html/wp-content/themes/thatsvoiceover," can not be empty 
+"
+"--------------------------------------------------------------------- websitetestlink.com ----------------------------------------------"," can not be empty 
+"
+ftp1.ftptoyoursite.com," can not be empty 
+"
+"User:          web113"," can not be empty 
+"
+"Pass:          wLs83!eM01"," can not be empty 
+"
+/www.marienlysterhverv.dk/web/content/wp-content/themes/twentythirteen," can not be empty 
+"
+"----------------------------------------------------- ForestAmerica  --------------------------------------------------------"," can not be empty 
+"
+"Host - 216.55.131.46"," can not be empty 
+"
+"User - forest-america"," can not be empty 
+"
+"Pass  - pjg2vPG8aRRq7Cn"," can not be empty 
+"
+http://216.55.131.46/forest-america/," can not be empty 
+"
+"--------------------------------------- anthony barber -------------------------------------------"," can not be empty 
+"
+host:anthonybarber.cgr-dev.com," can not be empty 
+"
+user:cgrdeveloper," can not be empty 
+"
+pwd:tc2o!mjG#cWd0L," can not be empty 
+"
+http://anthonybarber.cgr-dev.com/," can not be empty 
+"
+"--------------------------------------------------  tamono -------------------------------------------------"," can not be empty 
+"
+"Host: 216.55.131.46"," can not be empty 
+"
+"User Name: tamono"," can not be empty 
+"
+"Password: sDf#5$52Tsdf2"," can not be empty 
+"
+/modules/attributewizardpro/css," can not be empty 
+"
+"-------------------------------------------------- bubble-around  --------------------------------------------------"," can not be empty 
+"
+"FTP: ftp.bubble-around.com"," can not be empty 
+"
+"user: 235399-zapt"," can not be empty 
+"
+"pwd: zaptech!"," can not be empty 
+"
+/media/widgetkit/widgets/slideshow/styles/new_style," can not be empty 
+"
+"----------------------------------------------------- love shack -------------------------------------------"," can not be empty 
+"
+http://216.55.131.46/loveshak/," can not be empty 
+"
+"host:- 216.55.131.46"," can not be empty 
+"
+"username : loveshak"," can not be empty 
+"
+"password : Dergmj@#894lbw@"," can not be empty 
+"

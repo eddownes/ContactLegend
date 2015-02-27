@@ -1,0 +1,4 @@
+nCampaignCustId,nCampaignid,sCustomerName,sCustomerEmail,sCustomerPhone,sCustomerAddress,dUploadDate
+1,25,Campaign11,php.zaptech@gmail.com,123456,test address1,2014-03-20 08:26:00,0
+2,25,Campaign2,zaptest@ymail.com,123456,test address1,2014-03-20 13:34:00,0
+3,25,Campaign2,priyank@zaptechsolutions.com,123456,test address1,2014-03-20 13:34:00,0

@@ -1,0 +1,5 @@
+sCustomerFirstname,sCustomerLastname,sCustomerEmail,sCustomerPhone,sCustomerAddress1,sCustomerAddress2,sCustomerAddress3,sCustomerCity,sCustomerState,sCustomerZip,"sCustomerCountry(Non Us)"
+John,Smith,priyank@zaptechsolutions.com,1234567890,"123 Some Street","Suite 210",,Ahmedabad,Gujrat,1234,INDIA
+Mary,Jason,shwet@zaptechsolutions.com,4055631455,"123 Some Street","Suite 210",,Ahmedabad,Gujrat,1234,INDIA
+Mary,Jason,shwet@zaptechsolutions.com,4055631455,"123 Some Street","Suite 210",,Ahmedabad,Gujrat,1234,INDIA,"Duplicate email record has been discarded."
+,"The CSV file you uploaded is invalid. Please make sure you are using our template."

@@ -1,0 +1,5 @@
+sCustomerName,sCustomerEmail,sCustomerAddress,sPhone
+"Test User",zaptechsolutions.com,"test address",1234567890,"Invalid Email Address , 
+"
+,priyank@zaptechsolutions.com,"test address",asasas,"sCustomerName can not be empty ,Invalid Phone Number
+"

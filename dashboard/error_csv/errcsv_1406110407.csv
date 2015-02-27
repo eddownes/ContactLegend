@@ -1,0 +1,15 @@
+sCustomerFirstname,sCustomerLastname,sCustomerEmail,sCustomerPhone,sCustomerAddress1,sCustomerAddress2,sCustomerAddress3,sCustomerCity,sCustomerState,sCustomerZip,"sCustomerCountry(Non Us)"
+"pwd: admin123# "," can not be empty 
+"
+"foldername : htdocs"," can not be empty 
+"
+http://192.168.15.75/foundry/," can not be empty 
+"
+http://zaptechphplab.com/rcf/," can not be empty 
+"
+"what is username and pass for login in backend"," can not be empty 
+"
+admin," can not be empty 
+"
+admin," can not be empty 
+"

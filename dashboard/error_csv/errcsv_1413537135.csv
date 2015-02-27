@@ -1,0 +1,42 @@
+sCustomerFirstname,sCustomerLastname,sCustomerEmail,sCustomerPhone,sCustomerAddress1,sCustomerAddress2,sCustomerAddress3,sCustomerCity,sCustomerState,sCustomerZip,"sCustomerCountry(Non Us)"
+Test,Test,php.zaptech1@gmail.com,9745228050,xyz,xyz,xyz,,Gujarat,,India
+abc,,abc.xyz@gmail.com,,test,,test,Ahmedabad,Gujarat,380001,India
+xyz,abc,xyz.abc@yahoo.com,5621354712,test1,test1,test1,SURAT,Gujarat,745213,India
+pqr,xyz,,7854129632,test2,test2,test2,Baroda,Gujarat,,India,"Email Address can not be empty 
+"
+ade,mno,xyz@yahoo.com,8542416396,test3,test3,,Pune,Maharastra,874521,India
+t,t,t.t@gmail.com,7845128521,,test1,test2,Delhi,Delhi,854124,India
+s,s,s.s@yahoo.com,,test,t,t,Ahmedabad,Gujarat,380012,
+a,abc,a.abc@hotmail.com,3214569874,a,a,a,SURAT,Gujarat,,India
+,abc,mn@gmail.com,,m,m,m,Rajkot,Gujarat,451257,India
+lm,,km@yahoo.com,1236547890,km,,km,Rajkot,Gujarat,741257,India
+,op,,7412857412,op,op,,SURAT,Gujarat,741289,India,"Email Address can not be empty 
+"
+jk,lm,jk@yahoo.com,8512369711,jk,jk,jk,Pune,,,India
+gh,ij,,,gi,gi,gi,Rajkot,Gujarat,741963,India,"Email Address can not be empty 
+"
+hetal,patel,test@yahoo.com,9856321474,pq,pq,pq,Baroda,Gujarat,325416,
+janak,patel,janak@gmail.com,9632584171,r,r,r,Gandhinagar,Gujarat,741258,India
+"dimple ",shah,,9856321474,,tr,tr,Gandhinagar,Gujarat,524136,India,"Email Address can not be empty 
+"
+,Gajjar,aa_kash@gmail.com,8512637456,xyz,abc,abc,Ahmedabad,Gujarat,380009,India
+Twinkle,patel,,,test,test,test,SURAT,Gujarat,,India,"Email Address can not be empty 
+"
+test,test1,,9658214731,ty,ty,ty,Baroda,,365214,India,"Email Address can not be empty 
+"
+test1,test1,t.test@yah.com,7412563242,abc,abca1,abca2,Pune,Maharastra,741251,India
+,test2,t.test2@yahoo.com,9684741325,abc1,abca2,abca3,Baroda,Gujarat,781245,India
+test3,test3,t.test3@yaho.com,96521,abc2,abca3,abca4,Newyork,Newyork,854124,US
+test4,,t.test4@yahoo.com,9645218732,abc3,abca4,abca5,Mumbai,Maharastra,321452,India
+test5,test5,t.test5@yahoo.com,9724103296,abc4,,,Newyork,Newyork,412,US
+test6,test6,t.test6@yahoo.com,5241369871,abc5,abca6,abca7,Delhi,Delhi,785412,India
+test7,test7,t.test7yahoo.com,6352789541,abc6,abca7,abca8,Gandhinagar,Gujarat,965413,India,"Invalid Email Address"
+test8,test8,t.test8@yahoo.com,5014523697,abc7,abca8,abca9,Mumbai,Maharastra,254135,India
+test9,test9,yahoo.com,2136954,abc8,abca9,,Newyork,Newyork,124563,US,"Invalid Email Address"
+,test10,t.test10@yahoo.com,8000214562,abc9,abca10,abca11,Newyork,Newyork,874156,US
+test11,test11,t.test11@,964,abc10,abca11,abca12,Delhi,Delhi,5613,India,"Invalid Email Address"
+test12,test12,t.test12@yahoo.com,8000542671,abc11,,abca13,,,985412,India
+test13,test13,t.test13@yahoo.com,6982800001,abc12,abca13,abca14,Rajkot,Gujarat,741258,India
+,test14,t.test14@yahoo.com,,abc13,abca14,abca15,Pune,Maharastra,965234,India
+test15,,t.test15@yahoo.com,9000154726,abc14,abca15,abca16,SURAT,Gujarat,45789,India
+test16,test16,t.test16@yahoo.com,74212563,abc15,,abca17,,,365241,

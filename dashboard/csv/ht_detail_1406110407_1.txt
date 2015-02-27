@@ -1,0 +1,13 @@
+username: admin 
+pwd: admin123# 
+foldername : htdocs
+
+
+http://192.168.15.75/foundry/
+
+http://zaptechphplab.com/rcf/
+
+what is username and pass for login in backend
+
+admin
+admin

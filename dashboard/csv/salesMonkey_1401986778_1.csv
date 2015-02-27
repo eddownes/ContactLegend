@@ -1,0 +1,8 @@
+sCustomerFirstname,sCustomerLastname,sCustomerEmail,sCustomerPhone,sCustomerAddress1,sCustomerAddress2,sCustomerAddress3,sCustomerCity,sCustomerState,sCustomerZip,sCustomerCountry(Non Us)
+John,Smith,priyank@zaptechsolutions.com,1234567890,123 Some Street,Suite 210,,Ahmedabad,Gujrat,1234,INDIA
+Mary,Jason,priyank@zaptechsolutions.com,1234567890,123 Some Street,Suite 210,,Ahmedabad,Gujrat,1234,INDIA
+John,Smith,pradeep@zaptechsolutions.com,1234567890,123 Some Street,Suite 210,,Ahmedabad,Gujrat,1234,INDIA
+,  ,,,,,,,   ,,
+,  ,  ,,,,,,   ,,
+,  ,  ,  ,,,,,   ,,
+,  ,  ,  ,,,, ,   , ,

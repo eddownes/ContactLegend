@@ -1,0 +1,288 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ga",
+				"gallery_url"
+			],
+			[
+				"wh",
+				"whereComment"
+			],
+			[
+				"colo",
+				"colorbox"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"user",
+				"user_data"
+			],
+			[
+				"use",
+				"user_data"
+			],
+			[
+				"u",
+				"user_data"
+			],
+			[
+				"lo",
+				"login_data"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"p",
+				"pwd"
+			],
+			[
+				"a",
+				"action	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/opt/lampp/htdocs/drupal/index.php",
+		"/opt/lampp/htdocs/drupal/sites/default/files/k/active/bartik.settings.yml",
+		"/home/manali/Documents/wecollage/page.tpl.php",
+		"/home/manali/Documents/wecollage/.htaccess",
+		"/opt/lampp/htdocs/drupal/core/themes/bartik/templates/node.html.twig",
+		"/opt/lampp/htdocs/drupal/sites/default/settings.php",
+		"/opt/lampp/htdocs/drupal/sites/default/default.settings.php",
+		"/home/manali/.gvfs/form on 192.168.15.169/media/widgetkit/widgets/gallery/styles/showcase_nr_red/config.xml",
+		"/home/manali/.gvfs/form on 192.168.15.169/media/widgetkit/widgets/gallery/styles/showcase_nr_red/template.php",
+		"/home/manali/Documents/Ninkphoto/showcase_numbers/showcase_numbers/config.xml",
+		"/home/manali/Documents/Ninkphoto/Back up/widgetkit/edit.php",
+		"/opt/lampp/htdocs/pastpartner/admin/ajax_city.php",
+		"/opt/lampp/htdocs/pastpartner/admin/useradd.php",
+		"/opt/lampp/htdocs/pastpartner/admin/login.php",
+		"/opt/lampp/htdocs/pastpartner/admin/reviewlist.php",
+		"/opt/lampp/htdocs/pastpartner/admin/userlist.php",
+		"/opt/lampp/htdocs/pastpartner/admin/view_userreview.php",
+		"/opt/lampp/htdocs/pastpartner/admin/useradd_a.php",
+		"/opt/lampp/htdocs/pastpartner/admin/review_a.php",
+		"/opt/lampp/htdocs/pastpartner/admin/library/function.php",
+		"/opt/lampp/htdocs/pastpartner/admin/vendors/datatables/unit_testing/tests_onhold/1_dom/5396-fnUpdate-arrays.js",
+		"/opt/lampp/htdocs/pastpartner/admin/vendors/tinymce/js/tinymce/plugins/compat3x/form_utils.js",
+		"/opt/lampp/htdocs/pastpartner/admin/footer.php",
+		"/opt/lampp/htdocs/pastpartner/admin/ratinglist.php",
+		"/opt/lampp/htdocs/pastpartner/admin/css/styles.css",
+		"/opt/lampp/htdocs/pastpartner/admin/library/config.php",
+		"/opt/lampp/htdocs/pastpartner/login.php",
+		"/opt/lampp/htdocs/pastpartner/admin/header.php",
+		"/opt/lampp/htdocs/pastpartner/header.php",
+		"/opt/lampp/htdocs/pastpartner/admin/leftbar.php",
+		"/opt/lampp/htdocs/pastpartner/admin/index.php",
+		"/opt/lampp/htdocs/pastpartner/admin/interface.html",
+		"/opt/lampp/htdocs/pastpartner/function.php",
+		"/opt/lampp/htdocs/jquery/demo/index.html",
+		"/opt/lampp/htdocs/pastpartner/admin/js/jquery-1.9.0.js",
+		"/opt/lampp/htdocs/pastpartner/admin/js/jquery.js",
+		"/opt/lampp/htdocs/pastpartner/admin/libaray/function.php",
+		"/opt/lampp/htdocs/pastpartner/admin/libaray/config.php",
+		"/opt/lampp/htdocs/pastpartner/admin/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/_zero_config_objects.js",
+		"/opt/lampp/htdocs/pastpartner/admin/calendar.html",
+		"/opt/lampp/htdocs/pastpartner/admin/.bash_logout",
+		"/opt/lampp/htdocs/test.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"youtube",
+			"twitter.png",
+			"rss.png",
+			"reddit",
+			"mail.p",
+			"google.",
+			"down_arrow",
+			"behance.png",
+			"banner.jpg",
+			"banner",
+			"banner.jpg",
+			"mail.png",
+			"IfModule mod_expires.c",
+			"type=\"text\"",
+			"dbRowUpdate",
+			"i",
+			"    $",
+			"sUserFirstName",
+			"view.",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "DT_bootstrap.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"func",
+				"admin/library/function.php"
+			],
+			[
+				"use",
+				"admin/userlist.php"
+			],
+			[
+				"in",
+				"admin/index.php"
+			],
+			[
+				"",
+				"admin/libaray/config.php"
+			],
+			[
+				"c",
+				"admin/libaray/config.php"
+			],
+			[
+				"co",
+				"admin/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/_zero_config_objects.js"
+			],
+			[
+				"lo",
+				"admin/login.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

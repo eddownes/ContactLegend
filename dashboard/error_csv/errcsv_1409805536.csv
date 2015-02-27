@@ -1,0 +1,129 @@
+sCustomerFirstname,sCustomerLastname,sCustomerEmail,sCustomerPhone,sCustomerAddress1,sCustomerAddress2,sCustomerAddress3,sCustomerCity,sCustomerState,sCustomerZip,"sCustomerCountry(Non Us)"
+MIIFjDCCBHSgAwIBAgIIDHo1Va68RoQwDQYJKoZIhvcNAQEFBQAwgZYxCzAJBgNV," can not be empty 
+"
+BAYTAlVTMRMwEQYDVQQKDApBcHBsZSBJbmMuMSwwKgYDVQQLDCNBcHBsZSBXb3Js," can not be empty 
+"
+ZHdpZGUgRGV2ZWxvcGVyIFJlbGF0aW9uczFEMEIGA1UEAww7QXBwbGUgV29ybGR3," can not be empty 
+"
+aWRlIERldmVsb3BlciBSZWxhdGlvbnMgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkw," can not be empty 
+"
+HhcNMTQwOTAyMDcwMTE0WhcNMTUwOTAyMDcwMTE0WjCBizEkMCIGCgmSJomT8ixk," can not be empty 
+"
+AQEMFGNvbS53d3dlYnN0ZXIuZ29sZmhkMUEwPwYDVQQDDDhBcHBsZSBQcm9kdWN0," can not be empty 
+"
+aW9uIElPUyBQdXNoIFNlcnZpY2VzOiBjb20ud3d3ZWJzdGVyLmdvbGZoZDETMBEG," can not be empty 
+"
+A1UECwwKMzczNjhUMzlKRDELMAkGA1UEBhMCR0IwggEiMA0GCSqGSIb3DQEBAQUA," can not be empty 
+"
+A4IBDwAwggEKAoIBAQC3WPRWMnBPbuNCFLYFMlIM7NEeHgtf5x+qzUxZND9l22VA," can not be empty 
+"
+dCm11qUgGbi2ua2s0tC1hXUpVNk7XM/DytNlC3MCmjer0UfmrKNM9MOyJXT3eGXc," can not be empty 
+"
+0GdWRPuOSrPWYSTay6D3zdf/b1xOY5a2SYrUY1iTJR6Z7IJCzZckjc+XF756z/3W," can not be empty 
+"
+xuxUnvTT1MIWWy3wsoygI+oIpmzlhvsNt/+VybH0UZJlDhJFGqfqpPOWx+7sxYZP," can not be empty 
+"
+E9fhSyxqdlYqM/PmhV/8AQHY10zkXLsW32p0cRgb+BGqllJfb74o3DyJHm2DPKbg," can not be empty 
+"
+aGj+k1NWinIhib5HE9rytagB5dLANydq754wCHLLAgMBAAGjggHlMIIB4TAdBgNV," can not be empty 
+"
+HQ4EFgQUU7HA4ogLimNkqNXfoDyrceHF66IwCQYDVR0TBAIwADAfBgNVHSMEGDAW," can not be empty 
+"
+gBSIJxcJqbYYYIvs67r2R1nFUlSjtzCCAQ8GA1UdIASCAQYwggECMIH/BgkqhkiG," can not be empty 
+"
+92NkBQEwgfEwgcMGCCsGAQUFBwICMIG2DIGzUmVsaWFuY2Ugb24gdGhpcyBjZXJ0," can not be empty 
+"
+aWZpY2F0ZSBieSBhbnkgcGFydHkgYXNzdW1lcyBhY2NlcHRhbmNlIG9mIHRoZSB0," can not be empty 
+"
+aGVuIGFwcGxpY2FibGUgc3RhbmRhcmQgdGVybXMgYW5kIGNvbmRpdGlvbnMgb2Yg," can not be empty 
+"
+dXNlLCBjZXJ0aWZpY2F0ZSBwb2xpY3kgYW5kIGNlcnRpZmljYXRpb24gcHJhY3Rp," can not be empty 
+"
+Y2Ugc3RhdGVtZW50cy4wKQYIKwYBBQUHAgEWHWh0dHA6Ly93d3cuYXBwbGUuY29t," can not be empty 
+"
+L2FwcGxlY2EvME0GA1UdHwRGMEQwQqBAoD6GPGh0dHA6Ly9kZXZlbG9wZXIuYXBw," can not be empty 
+"
+bGUuY29tL2NlcnRpZmljYXRpb25hdXRob3JpdHkvd3dkcmNhLmNybDALBgNVHQ8E," can not be empty 
+"
+BAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUHAwIwEAYKKoZIhvdjZAYDAgQCBQAwDQYJ," can not be empty 
+"
+KoZIhvcNAQEFBQADggEBAGeUlmuzl3c3TnlfUixquXWjC2bZUfe0ArXos4iA3ee5," can not be empty 
+"
+jSrxafu/TGfn2ZezCp8C85kgJcHqwIx3jFr5ntRQv46EoGVBEAkNdALyMHvoKa8g," can not be empty 
+"
+UW+B9nx4AqjIKkxgoAqN7bwGlndUlIylRhqWbkA1Qn2FDVm4mc3fTaoHXuGQg76e," can not be empty 
+"
+HBIHCkFuKJAuCvNFgafVxl70PwPXp1a+3Drxe/nWpZeZunsW1q6lHp8p2Oou6uYb," can not be empty 
+"
+6MJnP6dMtOnPvOzuRIAdGxa9JnYPLYkI3jeLrLpSdEbao+QC3xeYrLHw3wiBWO1d," can not be empty 
+"
+B4YsgQzMukqMrBsoAfOoyPNhRVpK9i5WYQR2DWDt6RY=," can not be empty 
+"
+"-----END CERTIFICATE-----"," can not be empty 
+"
+"Bag Attributes"," can not be empty 
+"
+"    friendlyName: GolfApp"," can not be empty 
+"
+"    localKeyID: 53 B1 C0 E2 88 0B 8A 63 64 A8 D5 DF A0 3C AB 71 E1 C5 EB A2 "," can not be empty 
+"
+"Key Attributes: <No Attributes>"," can not be empty 
+"
+"-----BEGIN RSA PRIVATE KEY-----"," can not be empty 
+"
+"Proc-Type: 4",ENCRYPTED," can not be empty 
+"
+"DEK-Info: DES-EDE3-CBC",2E50A1561FB4CC57," can not be empty 
+"
+hvUah5ZOLk68JBNAcP9mwmSjBkQSvDvtthzvid5On2UA1ifbKJ0AB7zf2eOHLjiE," can not be empty 
+"
+598QzwRJAIvFJWz1GaIMu9sY8HiPXUQEWlGsNIi26hSOFCHww8/3xji5N8amdBOM," can not be empty 
+"
+iLiTdNBmqU8DD2g/VIoxpsGOGhwECcv//HwIG5lEehpVzMu4Oq26wzO07huBJCf7," can not be empty 
+"
+YkQfFdbME1K6HKPAvqsGHoTp0pXbNUQ5mCLfAvMpuaaJTkwNMOH9+rE58NS6icfn," can not be empty 
+"
+AZ0R5X6FZ7cUlCc1hRjdwI7goxd0AeYeux0fLZEeWKtY8EmZ5X/lCpl0h/OyJ9Fa," can not be empty 
+"
+tLAUhSvWNWDSHcjyD801NJOjrsSmZ2DYQLe2FjxTxMisO9WSuWahuwUHi3lJkPsF," can not be empty 
+"
+2jLrqgZ/Jyfbdi9cajvY/Wok8Y7tsFPBVzypWLrADJ3yS10kfCLo1ax4EWGXDKhY," can not be empty 
+"
+ThHeiCKrGIh9UJGO8OSgR3+BiceXAREmdaoQTjQFAT1//myTtZmDi8Ai3/1ujJxW," can not be empty 
+"
+n0gL2BOhk0Ofl59ta+c989NmqO0hiOAnabRtQstBCiZzU8bRZK9Jfs1fyZIp3v2b," can not be empty 
+"
+j5RzOpWSUH1IRy/8Siv4R/QK4wxN+/TCrQbzvfvRx9RlzJ4JSVCpAUl1k7VMhcRm," can not be empty 
+"
+9wCnW4vHoi4JgDIBWPARBGhh0ZVlxU/r45kNYxLVeBgoHqmdG47v6dGgA8RZlub8," can not be empty 
+"
+UWOmFL0oo+/4xzx0DbZO3TxqLHQecJHuw+0sCDUpo+aYA3IDK1/OtuTAfP6TJ51W," can not be empty 
+"
+eY8Iam87czbynRLAPOJdfzqATg201gsKY+zo3yUYXwHddWgTM//3nNTqdo8J1B0Z," can not be empty 
+"
+8HGwPkD3F1TH1s5ipcO7ap5+OXWI7/fUwEesHvXomxhIiei6kjlQTYAoVoTMFQEc," can not be empty 
+"
+oDX/VsnE5to/fEq5vi6Xc9xDFngrEBG1+57EN1GDaRWWcUrdq+ptll9AH/6phoOR," can not be empty 
+"
+UKdQ0KaHJjfZ3U9FixeSFcJM3dsDn0fyRccXqaXbFpUq2cVMIHO3nnWQoo+wRytG," can not be empty 
+"
+m3QKyWstcHn1uhtEm/5sUIa4Ldy2s9fpS7+peZrdUnlKYDeUzNQa5LKK19lUcUDv," can not be empty 
+"
+hCkXLINAExQc2OP+ecAl66UJkZlrZlUJrlEQM9QDZf/qgHKxh8+ePreRRxVJa9+s," can not be empty 
+"
+xKLaHNj3l3XHxfDQGZfB5FT7GskAh0rh47hrVf9h8wBVyWZY9OYIqxNj4VpepsKH," can not be empty 
+"
+jryDzLRtcaHR7YkYFLUYDdSGS5votJRYn/YobhryIAnKKKv7fgH6mUaQlm96XQKv," can not be empty 
+"
+UaOi2FSVCpoNHo9ve5Tw1DuXJQzdx5aHuzZ3HCVAdDtJgSlYpvVNHDrEwtpK/3ff," can not be empty 
+"
+GNonQpkZaWmoE7oKEi/9aGsl66DLqG6ZP6Uc+IQsggXunie4MJHTBWKaiYpWsubs," can not be empty 
+"
+TTDgXlhLTC9KspVxBr60tlpqd3Tr4RgWW/CFxq67GprB++blx0FxDUFMiUYy1mZc," can not be empty 
+"
+j84OiERVONIokhlo+Q3oSCUobgf9ONkR0qfFi/4L2x+oJSEAF+uwuyAtb4iTh2zO," can not be empty 
+"
+J5zpfa89VRABFl5pLYOMw52ASZGStL2jR16p3FvjaSEyFOp01pXuCkRnmJJyitj1," can not be empty 
+"
+"-----END RSA PRIVATE KEY-----"," can not be empty 
+"

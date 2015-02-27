@@ -1,0 +1,26 @@
+sCustomerFirstname,sCustomerLastname,sCustomerEmail,sCustomerPhone,sCustomerAddress1,sCustomerAddress2,sCustomerAddress3,sCustomerCity,sCustomerState,sCustomerZip,"sCustomerCountry(Non Us)"
+Test,Test,php.zaptech1@gmail.com,9745228050,xyz,xyz,xyz,,Gujarat,,India
+abc,,php.zaptech@gmail.com,,test,,test,Ahmedabad,Gujarat,380001,India
+xyz,abc,zaptest12@gmail.com,5621354712,test1,test1,test1,SURAT,Gujarat,745213,India
+pqr,xyz,,7854129632,test2,test2,test2,Baroda,Gujarat,,India,"Email Address can not be empty 
+"
+ade,mno,xyz@yahoo.com,8542416396,test3,test3,,Pune,Maharastra,874521,India
+t,t,t.t@gmail.com,7845128521,,test1,test2,Delhi,Delhi,854124,India
+s,s,s.s@yahoo,,test,t,t,Ahmedabad,Gujarat,380012,,"Invalid Email Address"
+a,abc,a.abc@hotmail.com,3214569874,a,a,a,SURAT,Gujarat,,India
+,abc,mn@gmail.com,,m,m,m,Rajkot,Gujarat,451257,India
+lm,,yahoo.com,1236547890,km,,km,Rajkot,Gujarat,741257,India,"Invalid Email Address"
+,op,,7412857412,op,op,,SURAT,Gujarat,741289,India,"Email Address can not be empty 
+"
+jk,lm,jk@yahoo.com,8512369711,jk,jk,jk,Pune,,,India
+gh,ij,,,gi,gi,gi,Rajkot,Gujarat,741963,India,"Email Address can not be empty 
+"
+hetal,patel,test@,9856321474,pq,pq,pq,Baroda,Gujarat,325416,,"Invalid Email Address"
+janak,patel,gmail.com,9632584171,r,r,r,Gandhinagar,Gujarat,741258,India,"Invalid Email Address"
+"dimple ",shah,,9856321474,,tr,tr,Gandhinagar,Gujarat,524136,India,"Email Address can not be empty 
+"
+,Gajjar,aa_kash,8512637456,xyz,abc,abc,Ahmedabad,Gujarat,380009,India,"Invalid Email Address"
+Twinkle,patel,,,test,test,test,SURAT,Gujarat,,India,"Email Address can not be empty 
+"
+test,test1,,9658214731,ty,ty,ty,Baroda,,365214,India,"Email Address can not be empty 
+"

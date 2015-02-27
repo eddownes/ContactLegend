@@ -1,0 +1,4 @@
+sCustomerFirstname,sCustomerLastname,sCustomerEmail,sCustomerPhone,sCustomerAddress1,sCustomerAddress2,sCustomerAddress3,sCustomerCity,sCustomerState,sCustomerZip,"sCustomerCountry(Non Us)"
+Danny,dannyjmcelhinny13@gmail.com,Oakmont,7243010947,,,,,,,,,,"Invalid Email Address"
+Chirag,chirag@zaptechsolutions.com,ABC,888888,,,,,,,,,,"Invalid Email Address"
+Costas,costas@digitalcharis.com,ABC,999999999,,,,,,,,,,"Invalid Email Address"
